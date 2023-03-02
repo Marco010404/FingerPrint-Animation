@@ -1,2 +1,1 @@
-# FingerPrint-Animation
-FingerPrint Animation using CSS
+A simple Fingerprint Animation using CSS and HTML
